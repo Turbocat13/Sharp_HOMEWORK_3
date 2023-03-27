@@ -1,0 +1,15 @@
+C:\Users\ligei\Sharp_HOMEWORK_3\task21_me\bin\Debug\net6.0\task21_me.exe
+C:\Users\ligei\Sharp_HOMEWORK_3\task21_me\bin\Debug\net6.0\task21_me.deps.json
+C:\Users\ligei\Sharp_HOMEWORK_3\task21_me\bin\Debug\net6.0\task21_me.runtimeconfig.json
+C:\Users\ligei\Sharp_HOMEWORK_3\task21_me\bin\Debug\net6.0\task21_me.dll
+C:\Users\ligei\Sharp_HOMEWORK_3\task21_me\bin\Debug\net6.0\task21_me.pdb
+C:\Users\ligei\Sharp_HOMEWORK_3\task21_me\obj\Debug\net6.0\task21_me.csproj.AssemblyReference.cache
+C:\Users\ligei\Sharp_HOMEWORK_3\task21_me\obj\Debug\net6.0\task21_me.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ligei\Sharp_HOMEWORK_3\task21_me\obj\Debug\net6.0\task21_me.AssemblyInfoInputs.cache
+C:\Users\ligei\Sharp_HOMEWORK_3\task21_me\obj\Debug\net6.0\task21_me.AssemblyInfo.cs
+C:\Users\ligei\Sharp_HOMEWORK_3\task21_me\obj\Debug\net6.0\task21_me.csproj.CoreCompileInputs.cache
+C:\Users\ligei\Sharp_HOMEWORK_3\task21_me\obj\Debug\net6.0\task21_me.dll
+C:\Users\ligei\Sharp_HOMEWORK_3\task21_me\obj\Debug\net6.0\refint\task21_me.dll
+C:\Users\ligei\Sharp_HOMEWORK_3\task21_me\obj\Debug\net6.0\task21_me.pdb
+C:\Users\ligei\Sharp_HOMEWORK_3\task21_me\obj\Debug\net6.0\task21_me.genruntimeconfig.cache
+C:\Users\ligei\Sharp_HOMEWORK_3\task21_me\obj\Debug\net6.0\ref\task21_me.dll
